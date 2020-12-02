@@ -1,1 +1,9 @@
 birds.py
+
+*.txt
+*.jpg
+*.png
+*.exe
+*.bmp
+*.hdf5
+*.h5
